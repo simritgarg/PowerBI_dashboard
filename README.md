@@ -8,7 +8,6 @@
 There was a case study of a company who was facing decline in their sales so this dashboard helps the company understand their sales better. It helps the company  to know how their sales were in last few years so that they can improve their declining sales. Through different factors, they get to know their improvement area, & thus they can improve their sales by identifying these area. It also lets them know the loses, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these declining sales.
 
 In the dataset, The following data was
-Folder name sales, In folder, There were 5 Sub-folders
 1. markets:
 having columns:-  market_code, market_name, zone;
 2. Date: 
